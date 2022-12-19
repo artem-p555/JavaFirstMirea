@@ -13,11 +13,11 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
         int cmd;
-        System.out.println("0) Âûõîä");
-        System.out.println("1) Äîáàâèòü ñòóäåíòà");
-        System.out.println("2) Íàéòè ñòóäåíòà ïî èìåíè");
-        System.out.println("3) Îòñîðòèðîâàòü ñòóäåíòîâ ïî óñïåâàåìîñòè");
-        System.out.println("4) Ñïèñîê ñòóäåíòîâ");
+        System.out.println("0) Выход");
+        System.out.println("1) Добавить студента");
+        System.out.println("2) Найти студента по имени");
+        System.out.println("3) Отсортировать студентов по успеваемости");
+        System.out.println("4) Список студентов");
         while (true) {
             while (true) {
                 cmd = sc.nextInt();

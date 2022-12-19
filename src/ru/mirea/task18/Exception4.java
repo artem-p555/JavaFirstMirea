@@ -15,7 +15,7 @@ public class Exception4 {
             System.out.println("Attempted division by zero");
         }finally {
             if (i != 0) {
-                System.out.println("Число не 0. Finally реализованж");
+                System.out.println("Число не 0. Finally реализован");
             }
         }
     }

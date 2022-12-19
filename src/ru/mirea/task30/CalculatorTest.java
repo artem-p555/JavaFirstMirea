@@ -1,4 +1,4 @@
-package ru.mirea.task30;
+/*package ru.mirea.task30;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -45,4 +45,4 @@ public class CalculatorTest {
         int actual = calc.getSquare(5);
         Assert.assertEquals(expected, actual);
     }
-}
+}*/
